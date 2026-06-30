@@ -1,7 +1,8 @@
 ⚡ CodeSense — AI-Powered Code Review Assistant
 Real-time AI code analysis using Llama 3.3 70B via Groq API, RAG with ChromaDB, and a React + Monaco frontend. Built as a full-stack SWE + AI/ML project.
 
-CodeSense Demo FastAPI React Llama
+CodeSense live demo 
+URL- https://codesense-cyan.vercel.app
 
 ✨ Features
 Real-time streaming — responses stream token-by-token via SSE
